@@ -43,10 +43,7 @@
             </select>
             <button type="submit">Rechercher</button>
         </form>
-
-
     </main>
-
 </body>
 
 </html>
